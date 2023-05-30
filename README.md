@@ -1,2 +1,2 @@
 # Minishell
-MİNİSHELL
+Kendi bashimi oluşturdum.
